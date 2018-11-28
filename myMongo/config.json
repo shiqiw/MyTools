@@ -1,0 +1,5 @@
+{
+  "client": "mongodb://localhost:27017/",
+  "database": "sample",
+  "collection": ["test"]
+}

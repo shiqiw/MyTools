@@ -1,0 +1,26 @@
+{
+	"1": {
+		"question": "Do you want to try this example?",
+		"options" : [
+			{
+				"Yes": "2"
+			},
+			{
+				"No": "3"
+			}
+		],
+		"style": "highlight",
+		"type": "multiple"
+	},
+	"2": {
+		"question": "This is how normal style looks like, please leave your comments.",
+		"previous": "1",
+		"style": "normal",
+		"type": "single"
+	},
+	"3": {
+		"description": "Thanks for using, goodbye!",
+		"style": "test",
+		"type": "description"
+	}
+}
